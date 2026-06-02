@@ -4,18 +4,18 @@
   "description": "The Ultraquest system for FoundryVTT!",
   "authors": [
     {
-      "name": "Asacolips",
-      "discord": "asacolips"
+      "name": "Fawkstrot",
+      "discord": "fawkstrot"
     },
     {
-      "name": "Lee Talman",
-      "discord": ".pizzaWizard"
+      "name": "Fennikk",
+      "discord": "fennikk"
     }
   ],
-  "url": "Replace this with a link to your public repository",
+  "url": "https://github.com/Fawkstrot11/ultraquest",
   "license": "LICENSE.txt",
   "readme": "README.md",
-  "bugs": "Replace this with a link to file issues or tickets",
+  "bugs": "https://github.com/Fawkstrot11/ultraquest/issues",
   "changelog": "CHANGELOG.md",
   "media": [
     {
@@ -41,11 +41,11 @@
   "packs": [],
   "packFolders": [],
   "socket": false,
-  "manifest": "Replace this with a link to the /latest release system.json so people can receive updates after they've installed the system",
+  "manifest": "https://github.com/Fawkstrot11/ultraquest/blob/main/system.json",
   "download": "This must link to a .zip file of the current version",
   "background": "systems/ultraquest/assets/anvil-impact.png",
-  "gridDistance": 5,
-  "gridUnits": "ft",
+  "gridDistance": 1,
+  "gridUnits": "space",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "ward"
 }
