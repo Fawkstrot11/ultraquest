@@ -1,0 +1,67 @@
+{
+  "ULTRAQUEST": {
+    "Ability": {
+      "Str": { "long": "Strength", "abbr": "str" },
+      "End": { "long": "Endurance", "abbr": "end" },
+      "Agi": { "long": "Agility", "abbr": "agi" },
+      "Kno": { "long": "Knowledge", "abbr": "kno" },
+      "Awa": { "long": "Awareness", "abbr": "awa" },
+      "Per": { "long": "Personality", "abbr": "per" },
+      "Spi": { "long": "Spirit", "abbr": "spi" }
+    },
+    "Score": {
+      "Acc": { "long": "Accuracy", "abbr": "acc" },
+      "Mel": { "long": "Melee", "abbr": "mel" },
+      "Pot": { "long": "Potency", "abbr": "pot" }
+    },
+    "Skill": {
+      "Alc": { "long": "Alchemy", "abbr": "alc" },
+      "Arc": { "long": "Arcanum", "abbr": "arc" },
+      "Cha": { "long": "Charm", "abbr": "cha" },
+      "Con": { "long": "Contortion", "abbr": "con" },
+      "Cul": { "long": "Culinary", "abbr": "cul" },
+      "Def": { "long": "Deftness", "abbr": "def" },
+      "Div": { "long": "Divinity", "abbr": "div" },
+      "Emp": { "long": "Empath", "abbr": "emp" },
+      "Eng": { "long": "Engineering", "abbr": "eng" },
+      "Ins": { "long": "Inscription", "abbr": "ins" },
+      "Int": { "long": "Intimidation", "abbr": "int" },
+      "Mas": { "long": "Masquerade", "abbr": "mas" },
+      "Med": { "long": "Medicine", "abbr": "med" },
+      "Nat": { "long": "Nature", "abbr": "nat" },
+      "Occ": { "long": "Occultism", "abbr": "occ" },
+      "Smi": { "long": "Smithing", "abbr": "smi" },
+      "Ste": { "long": "Stealth", "abbr": "ste" },
+      "Sur": { "long": "Survival", "abbr": "sur" }
+    },
+    "SheetLabels": {
+      "Actor": "UltraQuest Actor Sheet",
+      "Item": "UltraQuest Item Sheet"
+    },
+    "Item": {
+      "Spell": {
+        "SpellLVL": "Level {level} Spells",
+        "AddLVL": "Add LVL {level}"
+      }
+    },
+    "Effect": {
+      "Source": "Source",
+      "Toggle": "Toggle Effect",
+      "Temporary": "Temporary Effects",
+      "Passive": "Passive Effects",
+      "Inactive": "Inactive Effects"
+    }
+  },
+
+  "TYPES": {
+    "Actor": {
+      "character": "Character",
+      "npc": "NPC"
+    },
+    "Item": {
+      "item": "Item",
+      "feature": "Feature",
+      "spell": "Spell"
+    }
+  }
+}
