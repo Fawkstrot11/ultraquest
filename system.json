@@ -46,6 +46,6 @@
   "background": "systems/ultraquest/assets/anvil-impact.png",
   "gridDistance": 1,
   "gridUnits": "space",
-  "primaryTokenAttribute": "health",
+  "primaryTokenAttribute": "life",
   "secondaryTokenAttribute": "ward"
 }
